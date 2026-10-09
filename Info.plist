@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key><string>com.cox.deskmemo</string>
+	<key>CFBundleName</key><string>桌面备忘</string>
+	<key>CFBundleDisplayName</key><string>桌面备忘</string>
+	<key>CFBundleExecutable</key><string>DeskMemo</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>1.0.0</string>
+	<key>CFBundleVersion</key><string>1</string>
+	<key>NSHumanReadableCopyright</key><string>MIT License</string>
+	<key>LSMinimumSystemVersion</key><string>14.0</string>
+	<key>CFBundleIconFile</key><string>AppIcon</string>
+	<key>LSUIElement</key><true/>
+	<key>NSHighResolutionCapable</key><true/>
+	<key>NSRemindersFullAccessUsageDescription</key><string>把「提醒事项」里的待办显示在桌面上，并且在桌面上勾选、修改后同步回去。</string>
+	<key>NSRemindersUsageDescription</key><string>把「提醒事项」里的待办显示在桌面上，并且在桌面上勾选、修改后同步回去。</string>
+</dict>
+</plist>
