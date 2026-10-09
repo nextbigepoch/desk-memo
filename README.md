@@ -1,10 +1,10 @@
-<p align="center"><img src="docs/图标.png" width="160" alt="桌面备忘图标"></p>
+<p align="center"><img src="docs/icon.png" width="160" alt="桌面备忘图标"></p>
 
 <h1 align="center">桌面备忘 DeskMemo</h1>
 
 <p align="center">把备忘直接「长」在 Mac 桌面上：壁纸之上、所有窗口之下，抬眼就能看到，点一下就能改。</p>
 
-![五种预设样式](docs/样式一览.png)
+![五种预设样式](docs/styles.png)
 
 ## 为什么做这个
 
@@ -23,7 +23,7 @@
 
 ## 下载安装
 
-1. 到 [Releases](../../releases) 下载最新的 `桌面备忘-x.x.x.dmg`
+1. 到 [Releases](../../releases) 下载最新的 `DeskMemo-x.x.x.dmg`
 2. 打开 dmg，把「桌面备忘」拖到「应用程序」
 3. 从「应用程序」里打开它
 

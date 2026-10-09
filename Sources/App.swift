@@ -467,7 +467,7 @@ extension AppDelegate {
             }
             img.unlockFocus()
             if let tiff = img.tiffRepresentation, let png = NSBitmapImageRep(data: tiff)?.representation(using: .png, properties: [:]) {
-                try? png.write(to: dir.appendingPathComponent("样式一览.png"))
+                try? png.write(to: dir.appendingPathComponent("styles.png"))
             }
             settings.value = original
             settings.saveNow()

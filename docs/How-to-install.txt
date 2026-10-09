@@ -1,0 +1,29 @@
+DeskMemo (桌面备忘) — How to install
+=====================================
+
+1. Drag "桌面备忘" into the "Applications" folder next to it.
+2. Open Applications and double-click "桌面备忘".
+
+On first launch macOS may say it "cannot verify the developer".
+This app is not notarized by Apple (that costs money) — it is not malware. To open it:
+
+  1. Click "Done" in the dialog (NOT "Move to Trash").
+  2. Open System Settings → Privacy & Security, scroll down to "Security".
+  3. Next to "桌面备忘 was blocked", click "Open Anyway" and enter your password.
+  4. Double-click "桌面备忘" again. You will not be asked again.
+
+When asked "Allow access to Reminders?", click Allow to show your reminders on the desktop.
+
+Requires macOS 14 (Sonoma) or later. Works on Apple silicon and Intel Macs.
+
+-------------------------------------
+
+安装方法
+
+1. 把「桌面备忘」拖到旁边的「应用程序」文件夹里。
+2. 打开「应用程序」，双击「桌面备忘」。
+
+第一次打开如果提示「无法验证开发者」：点「完成」（不要点「移到废纸篓」），
+然后打开 系统设置 → 隐私与安全性，往下找到「已阻止使用"桌面备忘"」，点「仍要打开」，输入开机密码。只需要一次。
+
+打开后询问是否允许访问「提醒事项」，点「允许」即可。
